@@ -1,4 +1,4 @@
-# HandsOn_6
+
 
 
 * Code for KMP  is  [`KMP.py`](KMP.py)
